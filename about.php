@@ -62,8 +62,7 @@ The main objectives of the Online BloodBank are to:
                    <p>Copyright &copy Online BloodBank Portal. All Rights Reserved.</p>
                    
                </center>
-               </div>
-			   
+               </div>	   
            </footer>
         </div>
     </body>
